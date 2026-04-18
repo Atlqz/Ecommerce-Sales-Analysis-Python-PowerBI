@@ -81,15 +81,12 @@ Interactive region slicer filters all visuals simultaneously.
 ```
 ecommerce-sales-analysis/
 │
-├── data/
-│   ├── raw_superstore.csv               # Original dataset
-│   └── superstore_cleaned_final.csv     # Post-Excel cleaning, used in Python and Power BI
+├── raw_superstore.csv               # Original dataset
+├── superstore_cleaned_final.csv     # Post-Excel cleaning, used in Python and Power BI
 │
-├── notebooks/
-│   └── supersore_sales_snalysis.ipynb    # Full EDA with annotated markdown cells
+├── supersore_sales_snalysis.ipynb    # Full EDA with annotated markdown cells
 │
-├── dashboard/
-│   └── superstore_sales_report.pbix      # Power BI dashboard export
+├── superstore_sales_report.pbix      # Power BI dashboard export
 │
 └── README.md
 ```
