@@ -72,7 +72,8 @@ The dashboard is structured around two business questions:
 
 Interactive region slicer filters all visuals simultaneously.
 
-[Dashboard screenshot](dashboard/dashboard_screenshot.pdf)
+<img width="1283" height="716" alt="image" src="https://github.com/user-attachments/assets/2e5c8a24-78ff-49de-8924-b36de756e472" />
+
 
 ---
 
